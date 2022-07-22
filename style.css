@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px 20px;
+
+    margin: 30px 10px;
+
+    background-color: coral;
+
+    border: 1px solid white;
+
+    border-radius: 5px;
+}
+
+span{
+    margin-left: 10px;
+}
+
+.counter{
+
+    background-color: rgb(206, 206, 206);
+
+    padding: 10px 75px;
+}
